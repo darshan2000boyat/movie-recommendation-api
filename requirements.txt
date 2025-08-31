@@ -1,4 +1,6 @@
 fastapi
-uvicorn
-requests
+uvicorn[standard]
 pandas
+requests
+numpy==1.26.4
+scikit-learn
